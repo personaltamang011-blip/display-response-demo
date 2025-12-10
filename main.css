@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: peru;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    background-color: white;
+    width: 270px;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+
+.card-image {
+    background-color: gold;
+    height: 250px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.car-1 {
+    background-image: url('mani.jpg');
+}
+
+.car-2 {
+    background-image: url('mani.jpg');
+}
+
+.car-3 {
+    background-image: url('mani.jpg');
+}
+
+
+.card h2 {
+    padding: 10px;
+}
+
+.card p {
+    padding: 10px;
+}
+
+.card a {
+    background-color: yellowgreen;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 20px;
+    text-decoration: none;
+}
+
+.card :hover {
+    background-color: palevioletred;
+    color: white;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
