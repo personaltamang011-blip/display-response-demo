@@ -23,7 +23,7 @@ body {
 }
 
 .card-image {
-    background-color: gold;
+    background-color: yellowgreen;
     height: 360px;
     margin-bottom: 15px;
     background-size: cover;
@@ -93,3 +93,4 @@ input {
 
 #submit:hover {
     background-color: yellowgreen;
+
