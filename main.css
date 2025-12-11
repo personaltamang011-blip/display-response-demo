@@ -18,7 +18,6 @@ body {
 .card {
     background-color: white;
     width: 300px;
-    margin: 10px;
     border-radius: 15px;
 
 }
@@ -45,8 +44,9 @@ body {
 
 
 .card h2 {
-    padding: 10px;
-    width: 200px;
+    width: 300px;
+    text-align: center;
+    justify-content: center;
 }
 
 .card p {
