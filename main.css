@@ -24,7 +24,7 @@ body {
 
 .card-image {
     background-color: gold;
-    height: 450px ;
+    height: 410px ;
     margin-bottom: 15px;
     background-size: cover;
     border-radius: 15px 15px 0 0;
@@ -70,4 +70,5 @@ body {
     transform: scale(1.03);
     transition: all 1s ease;
 }
+
 
