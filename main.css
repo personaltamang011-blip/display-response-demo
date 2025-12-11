@@ -17,7 +17,7 @@ body {
 
 .card {
     background-color: white;
-    width: 270px;
+    width: 300px;
     margin: 10px;
     border-radius: 15px;
 
@@ -25,18 +25,18 @@ body {
 
 .card-image {
     background-color: gold;
-    height: 250px;
+    height: 300px;
     margin-bottom: 15px;
     background-size: cover;
     border-radius: 15px 15px 0 0;
 }
 
 .car-1 {
-    background-image: url('mani.jpg');
+    background-image: url('PC..png');
 }
 
 .car-2 {
-    background-image: url('mani.jpg');
+    background-image: url('sm.jpg');
 }
 
 .car-3 {
